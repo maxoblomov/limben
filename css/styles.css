@@ -120,6 +120,10 @@ body {
     text-align: center;
 
 }
+@media (max-width: 900px) {
+    #edu {
+        margin-top: 2rem !important;
+    }
 
 .slide-card {
     background-color: #13649e;
