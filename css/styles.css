@@ -42,6 +42,7 @@ body {
 @media (max-width: 900px) {
     .header-cta {
         padding: 1rem;
+        line-height: 1.5;
     }
 }
 .header-description {
