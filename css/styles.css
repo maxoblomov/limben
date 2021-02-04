@@ -1,0 +1,149 @@
+/* Elements */
+body {
+    background-color: #13649e;
+    
+}
+
+/* Navbar */
+.logo {
+    color:#fff;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+}
+.link-nav {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.25rem;
+    letter-spacing: 0.16rem;
+    padding-left: 0.5rem;
+    
+}
+.link-nav-start {
+    color: #ebeb1c !important;
+    margin-right: 2rem;
+}
+.link-nav-start:hover {
+    color: #79eb1c !important;
+}
+.padding-nav {
+    padding: 1rem 15rem;
+}
+
+/* Header Section */
+.header-cta {
+    padding-left: 15rem;
+    padding-top: 15rem;
+}
+.header-description {
+    color: #fff;
+    font-family:'Merriweather', serif;
+    font-weight: bold;
+    font-size: 1.55rem;
+    letter-spacing: 0.16rem;
+    
+}
+.start-button {
+    font-family: 'Ubuntu', sans-serif;
+    letter-spacing: 0.16rem;
+    margin-top: 2rem;
+    margin-bottom: 16.5rem;
+    width: 100%;
+}
+
+/* Features */
+#features {
+    background-color: #fff;
+    text-align: center;
+}
+.card-title-style {
+    letter-spacing: 0.16rem;
+    font-family:'Merriweather', serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.card-text-style {
+    color: #a6a6a6;
+    letter-spacing: 0.16rem;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.features-card {
+    border: none;
+    margin-bottom: 5rem;
+}
+.features-description {
+    color: #a6a6a6;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.2rem;
+    letter-spacing: 0.16rem;
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+.features-img {
+    color:#ebea1c;
+    margin-bottom: 0.5rem;
+}
+.features-name {
+    font-family:'Merriweather', serif;
+    font-weight: bold;
+    font-size: 1.55rem;
+    letter-spacing: 0.16rem;
+    padding-top: 5rem;
+}
+
+/* Edu Section */
+#edu {
+    padding-top: 5rem;
+    text-align: center;
+
+}
+
+.slide-card {
+    background-color: #13649e;
+    border: none;
+    margin-bottom: 5rem;
+}
+.slide-title-style {
+    color: #fff;
+    letter-spacing: 0.16rem;
+    font-family:'Merriweather', serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+
+}
+.slide-text-style {
+    color: #fff;
+    letter-spacing: 0.16rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+.wrongs {
+    color: #fff;
+    letter-spacing: 0.16rem;
+    font-family:'Merriweather', serif;
+    font-weight: lighter;
+    padding-bottom: 2rem;
+}
+
+/* Footer Section */
+#footer {
+    text-align: center;
+    background-color: #fff;
+    padding-bottom: 5rem;
+    padding-top: 5rem;
+}
+.cta {
+    letter-spacing: 0.16rem;
+    font-family:'Merriweather', serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.cta-description {
+    color: #a6a6a6;
+    letter-spacing: 0.16rem;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 1rem;
+}
+.copyright {
+    letter-spacing: 0.16rem;
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 1rem;
+}
