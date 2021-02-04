@@ -64,6 +64,11 @@ body {
     background-color: #fff;
     text-align: center;
 }
+@media (max-width: 900px) {
+    .#features {
+        height: 40.625rem;
+    }
+}
 .card-title-style {
     letter-spacing: 0.16rem;
     font-family:'Merriweather', serif;
