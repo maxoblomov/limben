@@ -64,11 +64,7 @@ body {
     background-color: #fff;
     text-align: center;
 }
-@media (max-width: 900px) {
-    .#features {
-        height: 40.625rem;
-    }
-}
+
 .card-title-style {
     letter-spacing: 0.16rem;
     font-family:'Merriweather', serif;
@@ -84,6 +80,11 @@ body {
 .features-card {
     border: none;
     margin-bottom: 5rem;
+}
+@media (max-width: 900px) {
+    .features-card {
+        margin-bottom: 2rem !important;
+    }
 }
 .features-description {
     color: #a6a6a6;
@@ -116,6 +117,11 @@ body {
     background-color: #13649e;
     border: none;
     margin-bottom: 5rem;
+}
+@media (max-width: 900px) {
+    .slide-card {
+        margin-bottom: 2rem;
+    }
 }
 .slide-title-style {
     color: #fff;
