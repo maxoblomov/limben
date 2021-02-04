@@ -1,2 +1,2 @@
 # limben
-Limben - learn english fast effectively
+Limben - learn english fast and effectively
