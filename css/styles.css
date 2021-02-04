@@ -98,6 +98,7 @@ body {
     .features-description {
         margin-bottom: 2rem !important;
     }
+}
 .features-img {
     color:#ebea1c;
     margin-bottom: 0.5rem;
@@ -111,9 +112,9 @@ body {
 }
 @media (max-width: 900px) {
     .features-name {
-        padding-top: 2rem !important;
+        margin-top: 2rem !important;
     }
-
+}
 /* Edu Section */
 #edu {
     padding-top: 5rem;
@@ -124,7 +125,7 @@ body {
     #edu {
         padding-top: 2rem !important;
     }
-
+}
 .slide-card {
     background-color: #13649e;
     border: none;
